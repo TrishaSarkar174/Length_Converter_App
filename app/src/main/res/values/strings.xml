@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Length Converter App</string>
+    <string name="App_header">Length Converter App</string>
+    <string name="length_enter">Enter Length :</string>
+    <string name="value_enter">Enter Length Value </string>
+    <string name="from_unit">From Unit:</string>
+    <string name="to_unit">To Unit:</string>
+    <string name="result">Result is : </string>
+</resources>

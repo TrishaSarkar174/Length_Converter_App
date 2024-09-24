@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Solid background color -->
+    <solid android:color="#2C3E50"/> <!-- Dark background -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="10dp"/>
+
+    <!-- Optional padding inside the shape -->
+    <padding
+        android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp" />
+
+    <!-- Stroke around the shape (border) -->
+    <stroke
+        android:width="2dp"
+        android:color="#E4D9D6"/> <!-- Orange border -->
+</shape>
